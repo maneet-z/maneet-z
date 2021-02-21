@@ -8,6 +8,8 @@ Few perks about myself:
 - 🌱 I’m currently learning Apache Spark using Databricks platform.
 - 👯 I’m looking to collaborate for side-projects and co-author for publishing blogs related to data science
 - ✨ Fun fact: "I have never tasted meat in my life; nor I want to."
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=maneet-z&show_icons=true)
 <!--
 **maneet-z/maneet-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
