@@ -3,7 +3,7 @@
 I’m a Data Scientist based in Toronto, ON with a passion for discovering how data is revolutionizing our world. Leveraging my background in Machine Learning, I help data-driven companies to find the story hidden beneath their data, intuitively and meaningfully. I love chatting about machine learning, data privacy ethics and the application of AI in Healthcare. Apart from that, I love cooking Indian vegetarian dishes with some extra spice. 
 
 Few perks about myself:
-🔭 I’m versatile and I love brainstorming new ideas.
+- 🔭 I’m versatile and I love brainstorming new ideas.
 - ⚡ I’m actively looking for a Hybrid data science role that demands my intellct. 
 - 🌱 I’m currently learning Apache Spark using Databricks platform.
 - 👯 I’m looking to collaborate for side-projects and co-author for publishing blogs related to data science
