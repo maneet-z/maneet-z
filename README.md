@@ -7,7 +7,7 @@ Few perks about myself:
 - ⚡ I’m actively looking for a Hybrid data science role that demands my intellct. 
 - 🌱 I’m currently learning Apache Spark using Databricks platform.
 - 👯 I’m looking to collaborate for side-projects and co-author for publishing blogs related to data science
-- ✨ Fun fact: "I have never tasted meat in my life; nor I want to."
+- ✨ Fun fact: "Following worlds oldest tradition "Jainism" following the disciples of non-violence."
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=maneet-z&show_icons=true)
 <!--
